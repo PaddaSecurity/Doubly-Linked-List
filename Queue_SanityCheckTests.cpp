@@ -1,14 +1,4 @@
-// Queue_SanityCheckTests.cpp
-//
-// ICS 46 Winter 2022
-// Project #2: Time Waits for No One
-//
-// This is a set of unit tests that demonstrate various aspects of how
-// your Queue<ValueType> class template should behave when
-// you're finished.  When you're finished, all of these tests should
-// pass.  (Note, too, that these tests are far from exhaustive; we'll
-// be testing your implementation more thoroughly, so you might want
-// to write your own tests, as well.)
+
 
 #include <gtest/gtest.h>
 #include "Queue.hpp"
